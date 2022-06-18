@@ -1,6 +1,5 @@
-# Assignment_1 : Android-Layout
 
-<h1 align="center">About Me & ColourMyView (Android App with Scrollbar & LinearLayout)</h1>
+<h1 align="center">Assignment_1 : About Me & ColourMyView</h1>
 
 ## Built With
 - [Android Studio](https://developer.android.com/studio)
